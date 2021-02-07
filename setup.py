@@ -11,7 +11,7 @@ from setuptools import find_packages, setup
 
 
 REQUIRED_MAJOR = 3
-REQUIRED_MINOR = 7
+REQUIRED_MINOR = 6
 
 # Check for python version
 if sys.version_info < (REQUIRED_MAJOR, REQUIRED_MINOR):
