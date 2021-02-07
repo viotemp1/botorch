@@ -68,7 +68,7 @@ setup(
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
-    python_requires=">=3.7",
+    python_requires=">=3.6.9",
     setup_requires=["setuptools_scm"],
     use_scm_version={
         "root": ".",
